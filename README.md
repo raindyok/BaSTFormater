@@ -1,8 +1,7 @@
 BaSTFormater 1.02
 =====================
 
-By Deng Cao & Raindy, 
-dengcao@pubbiotech.com or Raindy@fafu.edu.cn,
+By Dr. Cao Deng (dengcao@pubbiotech.com) & Dr. Fangluan Gao (Raindy@fafu.edu.cn), 
 Email the author for any queries.
 
 (1) About
