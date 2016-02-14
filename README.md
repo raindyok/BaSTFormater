@@ -20,7 +20,7 @@ BaSTFormater is an ulility to automatically convert posterior distribution of tr
 To run BaSTFormater you will need ActivePerl. For more information, please visit the ActiveState website (www.activestate.com/activeperl/).
 
 
-2.Usage
+2. Usage
 
 BaSTFormater runs in either 'single' or 'batch' mode. The usage as follows:
 e.g. 
