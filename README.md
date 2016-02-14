@@ -40,5 +40,4 @@ batch_data\traits\examle1.tbl and batch_data\trees\exampl1.trees
 
 
 3. Copyright
-The programmer asserts the right to be identified as author of this work, the v1.02 release of BaSTFormater. 
-BaSTFormater 1.02 is released under GNU Lesser General Public License, Version 3. See http://www.gnu.org/licenses/lgpl.html
+The programmer asserts the right to be identified as author of this work, the v1.02 release of BaSTFormater. BaSTFormater 1.02 is released under GNU Lesser General Public License, Version 3. See http://www.gnu.org/licenses/lgpl.html
