@@ -1,5 +1,3 @@
-# BaSTFormater
-
 BaSTFormater 1.02
 =====================
 
